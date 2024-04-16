@@ -1,17 +1,19 @@
-Hi, I'm Dmitry Misevra
+## Hi, I'm Dmitry Misevra 🖐
 
-I'm Java developer
+Java devloper
 
 My tech stack: 
-- Java
-- Spring Boot
-- Spring Data
-- Docker
-- Git
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,docker,git)](https://skillicons.dev)
 
 
 Learning:
-- kafka
-- Kubernetes
+
+[![My Skills](https://skillicons.dev/icons?i=kafka,kubernetes)](https://skillicons.dev)
+
+
+
+My stats
   
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitrymisevra)](https://github.com/anuraghazra/github-readme-stats)
 
