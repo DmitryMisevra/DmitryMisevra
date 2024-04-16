@@ -9,8 +9,8 @@ My tech stack:
 
 Learning:
 
-[![My Skills](https://skillicons.dev/icons?i=kafka)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=kafka)]([https://skillicons.dev](https://kafka.apache.org/))
+[![My Skills](https://skillicons.dev/icons?i=kubernetes)]([https://skillicons.dev]([https://kafka.apache.org/](https://kubernetes.io/)))
 
 
 My stats:
