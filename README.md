@@ -9,7 +9,7 @@ My tech stack:
 
 Learning:
 
-[![My Skills](https://skillicons.dev/icons?i=kafka,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kafka)](https://skillicons.dev)
 
 
 
