@@ -13,7 +13,10 @@ Learning:
 
 
 
-My stats
+My stats:
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitrymisevra)](https://github.com/anuraghazra/github-readme-stats)
 
+How to reach me
+* dmitri.misevra@gmail.com
+* t.me/dmisevra
