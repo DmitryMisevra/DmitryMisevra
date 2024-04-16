@@ -1,6 +1,6 @@
-## Hi, I'm Dmitry Misevra 🖐
+## Hi there 🖐
 
-Java devloper
+Dmitry Misevra, Java devloper
 
 My tech stack: 
 
