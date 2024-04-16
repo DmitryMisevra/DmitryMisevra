@@ -10,7 +10,7 @@ My tech stack:
 Learning:
 
 [![My Skills](https://skillicons.dev/icons?i=kafka)](https://kafka.apache.org/)
-[![My Skills](https://skillicons.dev/icons?i=kubernetes)](https://kafka.apache.org/](https://kubernetes.io/)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io/)
 
 
 My stats:
