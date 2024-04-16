@@ -13,7 +13,6 @@ My tech stack:
 [![My Skills](https://skillicons.dev/icons?i=gradle)](https://gradle.org/)
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 [![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-
 ---
 
 Learning:
