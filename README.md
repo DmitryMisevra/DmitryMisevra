@@ -1,6 +1,6 @@
 # Hi there 🖐
 
-* ♨ Java developer. Passionate about what I'm doing;
+* ♨ Java developer. Passionate about what I do;
 *  ⚙ Tech stack: [Spring Framework](https://spring.io/projects/spring-framework), [Spring Boot](https://spring.io/projects/spring-boot), [Spring Data](https://spring.io/projects/spring-data), [Hibernate](https://hibernate.org/), [Maven](https://maven.apache.org/), [Gradle](https://gradle.org/), [Docker](https://www.docker.com/), [Git](https://gradle.org/);
 * 📚 Learning: [Kafka](https://kafka.apache.org/), [Kubernetes](https://kubernetes.io/).
 
